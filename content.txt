@@ -1,0 +1,7 @@
+
+Customer details-
+Name.
+Website.
+Revenues.
+Employees.
+CEO.

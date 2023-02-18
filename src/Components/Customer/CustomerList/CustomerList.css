@@ -1,0 +1,43 @@
+.container{
+    margin-top: 30px;
+}
+
+
+.st_green{
+    color: white;
+    margin-top: 6px;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 4px !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+    border-radius: 7px !important;
+    background-color: green !important;
+}
+
+.st_red{
+    color: white;
+    margin-top: 6px;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 4px !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+    border-radius: 7px !important;
+    background-color: red !important;
+}
+
+.st_blue{
+    color: white;
+    margin-top: 6px;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 4px !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+    border-radius: 7px !important;
+    background-color: blue !important;
+}

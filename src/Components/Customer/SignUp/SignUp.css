@@ -1,0 +1,28 @@
+.container1{
+    margin: 20px;
+    display: flex;
+}
+
+.left, .right{
+    width: 50%; 
+}
+img{
+    width: 70%;
+}
+
+.header{
+    margin-top: 10px;
+    margin-bottom: 60px !important;
+}
+
+.right{
+    border-left: 1px solid lightblue;
+    padding: 36px;
+}
+
+
+.left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
